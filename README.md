@@ -1,6 +1,5 @@
 Olá, sou Luiz Crisanto
 
-- 🔭 Hoje Trabalho com Front-End
 - 🌱 Estudando Python e Java
 - 💬 Pergunte-me sobre Python, Java ...
 - 📫 contacte-me no email: luiz.crisanto@gmail.com
