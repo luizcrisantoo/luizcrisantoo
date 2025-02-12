@@ -7,6 +7,8 @@
 
 ---
 
+## 📊 Meu status no GitHub:
+
 <div align="center">
   <a href="https://github.com/luizcrisantoo">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizcrisantoo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -22,6 +24,14 @@
   <img align="center" alt="Luiz-Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Luiz-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Luiz-PHP" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+</div>
+
+---
+
+## 🐍 Meus commits no GitHub:
+
+<div align="center">
+  <img src="https://github.com/luizcrisantoo/luizcrisantoo/blob/output/github-contribution-grid-snake.svg">
 </div>
 
 ---
