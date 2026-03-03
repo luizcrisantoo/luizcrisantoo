@@ -9,17 +9,17 @@
 
 ## 📊 Meu status no GitHub:
 
+## 📊 Meu status no GitHub:
+
 <div align="center">
   <a href="https://github.com/luizcrisantoo">
     <img
       height="180em"
-      src="https://github-readme-stats.vercel.app/api?username=luizcrisantoo&show_icons=true&theme=dracula&include_all_commits=true"
-      alt="GitHub stats do Luiz"
+      src="https://github-readme-stats.vercel.app/api?username=luizcrisantoo&show_icons=true&theme=dracula&include_all_commits=true&cache_seconds=1800"
     />
     <img
       height="180em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizcrisantoo&layout=compact&langs_count=7&theme=dracula"
-      alt="Linguagens mais usadas"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizcrisantoo&layout=compact&langs_count=7&theme=dracula&cache_seconds=1800"
     />
   </a>
 </div>
