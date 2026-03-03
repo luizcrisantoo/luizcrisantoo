@@ -65,5 +65,14 @@ Atualmente trabalhando com:
 
 ## Contato
 
-- LinkedIn: https://www.linkedin.com/in/luizcrisanto/
-- Email: luiz.crisanto@gmail.com
+<div align="center">
+
+<a href="https://www.linkedin.com/in/luizcrisanto/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:luiz.crisanto@gmail.com">
+  <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
