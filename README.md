@@ -1,53 +1,56 @@
 <div align="center">
 
+<img src="1723678735239.jpg" width="180" />
+
 # Luiz Crisanto
 
-Backend Software Engineer (Java)  
-Building scalable and well-structured backend systems.
+Desenvolvedor Backend Java  
+Construindo sistemas backend escaláveis e bem estruturados.
 
-Recife, Brazil  
+Recife, PE
 
 </div>
 
 ---
 
-## About
+## Sobre
 
-Computer Science student focused on backend engineering.  
-Strong interest in system design, clean architecture, APIs and performance.
+Estudante de Ciência da Computação com foco em engenharia backend.  
+Interesse em arquitetura limpa, APIs REST, boas práticas e performance.
 
-Currently working with:
+Atualmente trabalhando com:
+
 - Java 17+
 - Spring Boot
-- REST APIs
-- Relational Databases
-- Clean Code & SOLID principles
+- APIs REST
+- Banco de Dados Relacional
+- Clean Code e SOLID
 
 ---
 
-## Technical Skills
+## Habilidades Técnicas
 
-**Languages**
+### Linguagem
 - Java
 
-**Backend**
+### Backend
 - Spring Boot
 - JPA / Hibernate
 - RESTful APIs
 
-**Databases**
+### Banco de Dados
 - MySQL
 
-**Engineering Practices**
-- Clean Architecture
+### Engenharia
+- Arquitetura em Camadas
 - SOLID
-- Version Control (Git)
-- Code Refactoring
-- Problem Solving
+- Versionamento com Git
+- Refatoração
+- Resolução de Problemas
 
 ---
 
-## GitHub Activity
+## Atividade no GitHub
 
 <div align="center">
 
@@ -60,7 +63,7 @@ Currently working with:
 
 ---
 
-## Contact
+## Contato
 
 - LinkedIn: https://www.linkedin.com/in/luizcrisanto/
 - Email: luiz.crisanto@gmail.com
