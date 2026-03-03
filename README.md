@@ -5,7 +5,7 @@
 # Luiz Crisanto
 
 Desenvolvedor Backend Java  
-Construindo sistemas backend escaláveis e bem estruturados.
+Construindo aplicações backend bem estruturadas, escaláveis e orientadas a boas práticas.
 
 Recife, PE
 
@@ -13,57 +13,85 @@ Recife, PE
 
 ---
 
-## Sobre
+## 👨‍💻 Sobre
 
-Estudante de Ciência da Computação com foco em engenharia backend.  
-Interesse em arquitetura limpa, APIs REST, boas práticas e performance.
+Estudante de Ciência da Computação com foco em desenvolvimento backend utilizando Java.
 
-Atualmente trabalhando com:
+Atualmente atuo como estagiário em desenvolvimento e estou consolidando minha base técnica através da Carreira Java da Alura, aplicando na prática conceitos de:
 
-- Java 17+
-- Spring Boot
+- Programação Orientada a Objetos
+- Arquitetura em Camadas
+- Clean Code
+- SOLID
 - APIs REST
-- Banco de Dados Relacional
-- Clean Code e SOLID
+- Persistência com JPA
+
+Meu objetivo é atuar como Desenvolvedor Backend Java Jr., contribuindo na construção de sistemas organizados, performáticos e de fácil manutenção.
 
 ---
 
-## Habilidades Técnicas
+## ⚙️ Stack Principal
 
 ### Linguagem
-- Java
+- Java 17+
 
 ### Backend
 - Spring Boot
 - JPA / Hibernate
-- RESTful APIs
+- Construção de APIs REST
 
 ### Banco de Dados
 - MySQL
 
-### Engenharia
-- Arquitetura em Camadas
+### Engenharia de Software
 - SOLID
-- Versionamento com Git
+- Clean Code
+- Arquitetura em Camadas
 - Refatoração
-- Resolução de Problemas
+- Versionamento com Git
 
 ---
 
-## Atividade no GitHub
+## 📚 Formação Técnica em Andamento
 
-<div align="center">
+Carreira Java – Alura  
+Estudos estruturados cobrindo:
 
-<img
-  src="https://streak-stats.demolab.com?user=luizcrisantoo&theme=dark&hide_border=true"
-  alt="GitHub Streak"
-/>
-
-</div>
+- Fundamentos da linguagem
+- Orientação a Objetos
+- Collections e Exceptions
+- Streams API
+- Desenvolvimento com Spring Boot
+- Integração com Banco de Dados
 
 ---
 
-## Contato
+## 🚀 Projetos em Desenvolvimento
+
+🔹 **Sistema de Marcação de Consultas Automatizadas**  
+Backend em Java com foco em:
+- API REST
+- Organização de domínio
+- Integração com banco de dados
+- Estrutura preparada para escalabilidade futura
+
+🔹 Projetos práticos focados na consolidação de:
+- Boas práticas
+- Separação de responsabilidades
+- Estruturação de serviços backend
+
+---
+
+## 📊 Perfil Profissional
+
+- Foco principal: Backend Java
+- Interesse em arquitetura limpa e escalabilidade
+- Estudo contínuo com roadmap técnico definido
+- Evolução orientada ao mercado
+
+---
+
+## 📫 Contato
 
 <div align="center">
 
